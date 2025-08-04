@@ -1,7 +1,6 @@
-<h1 align="center">
-  Hi there 👋, I'm Nourhan Osama
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=500&lines=Hi+there+👋+I'm+Nourhan+Osama" alt="Typing SVG" />
+</p>
 
 <p align="center">
   🌟 Front-End Developer | Passionate about building modern, responsive, and user-friendly interfaces.
@@ -20,7 +19,7 @@
 
 ---
 
-### 🚀 Languages & Tools
+### 🚀 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,angular,php,python,java,mysql,figma" />
