@@ -35,5 +35,5 @@
 <p align="center">
   <a href="mailto:no222450@gmail.com">📩 Email</a> •
   <a href="https://www.linkedin.com/in/nourhanosamaahmed">LinkedIn</a> •
-  <a href="https://your-portfolio.com">Portfolio</a>
+  <a href="https://spectacular-sawine-4bbc83.netlify.app/">Portfolio</a>
 </p>
